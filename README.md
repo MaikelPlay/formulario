@@ -11,6 +11,10 @@ Este proyecto consiste en un sistema de inscripción en línea donde los usuario
 - **PHP:** Para la gestión del flujo de los formularios y la validación del tiempo de sesión.
 - **HTML/CSS:** Para el diseño de las interfaces de usuario, que incluyen estilos responsivos y un diseño limpio.
 - **Cookies y sesiones:** Para mantener el estado y asegurar que el proceso no se interrumpa por inactividad.
+  
+  <br>
+  
+![Laptop mockup on table](https://github.com/user-attachments/assets/d86461de-ab79-4166-bf56-cc12d9c708a5)
 
 ![1](https://github.com/user-attachments/assets/48441ff9-638e-462d-9459-830c5e4e1b59)
 <br>
